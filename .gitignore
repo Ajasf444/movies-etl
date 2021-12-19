@@ -3,9 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-movies_metadata.csv
 ratings.csv
-wikipedia-movies.json
+config.py
+ETL_Deliverable*
+cleaning.ipynb
 
 # C extensions
 *.so
